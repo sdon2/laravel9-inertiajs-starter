@@ -1,3 +1,5 @@
+__webpack_public_path__ = window.public_path;
+
 import _ from 'lodash';
 window._ = _;
 
